@@ -1,0 +1,8 @@
+{
+  "BOT_NAME": "Farofa",
+  "OWNER_JID": "",
+  "AI_ENABLED": true,
+  "AI_ONLY_WHEN_MENTIONED_OR_REPLIED": true,
+  "OPENROUTER_API_KEY": "COLE_SUA_CHAVE_AQUI",
+  "OPENROUTER_MODEL": "openrouter/free"
+}
